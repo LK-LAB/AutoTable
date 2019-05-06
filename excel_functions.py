@@ -52,10 +52,8 @@ def auto_table(savefilename, elementlist, featurelist):
         print("Start %s" %tempdata[0])
         if eq(tempdata[29], error):
             if int(tempdata[48]) == 6: #period is 6th
-                print(int(tempdata[48]) + 3, int(tempdata[4]) - (57-4))
                 tempworksheet.cell(row=(int(tempdata[48]) + 3), column=(int(tempdata[4]) - (57-4))).value = str(tempworksheet.cell(row=(int(tempdata[48]) + 3), column=(int(tempdata[4]) - (57-4))).value) + tempdata[0] + '\r\n'
             else:
-                print(int(tempdata[48]) + 3, int(tempdata[4]) - (89-4))
                 tempworksheet.cell(row=(int(tempdata[48]) + 3), column=(int(tempdata[4]) - (89-4))).value = str(tempworksheet.cell(row=(int(tempdata[48]) + 3), column=(int(tempdata[4]) - (89-4))).value) + tempdata[0] + '\r\n'
         else:
             tempworksheet.cell(row=(int(tempdata[48]) + 1), column=(int(tempdata[29]) + 1)).value = str(tempworksheet.cell(row=(int(tempdata[48]) + 1), column=(int(tempdata[29]) + 1)).value) + str(tempdata[0]) + '\r\n'
