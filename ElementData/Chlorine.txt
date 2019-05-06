@@ -1,0 +1,74 @@
+Cl
+chlorine
+7/5
+Quantity[35.45`4., "AtomicMassUnit"]
+17
+Quantity[79.`2., "Picometers"]
+p
+Quantity[-34.04`4., "DegreesCelsius"]
+Missing["NotApplicable"]
+Quantity[1.1`2., "Gigapascals"]
+Quantity[102.`3., "Picometers"]
+Quantity[7.991`4., "Megapascals"]
+Quantity[416.9`4., "Kelvins"]
+Quantity[0.00017`2., "Grams"/"Grams"]
+Entity["Lattice", "BaseCenteredOrthorhombic"]
+Missing["NotApplicable"]
+Missing["NotApplicable"]
+Quantity[3.214`4., "Kilograms"/"Meters"^3]
+{Entity["Country", "Sweden"]}
+DateObject[{1774}, "Year", "Gregorian", 9.]
+Quantity[0.01`2., "Siemens"/"Meters"]
+EntityClass["Element", "Insulator"]
+Quantity[349.`4., "Kilojoules"/"Moles"]
+{{2}, {2, 6}, {2, 5}}
+Row[{"[Ne]", 3, Superscript["s", 2], 3, Superscript["p", 5]}]
+3.16`3.
+{2, 8, 7}
+Quantity[3.2`2., "Kilojoules"/"Moles"]
+2
+17
+Infinity
+{Quantity[1251.2`5., "Kilojoules"/"Moles"], Quantity[2298.`4., "Kilojoules"/"Moles"], Quantity[3822.`4., "Kilojoules"/"Moles"], Quantity[5158.6`5., "Kilojoules"/"Moles"], Quantity[6542.`4., "Kilojoules"/"Moles"], Quantity[9362.`4., "Kilojoules"/"Moles"], Quantity[11018.`5., "Kilojoules"/"Moles"], Quantity[33604.`5., "Kilojoules"/"Moles"], Quantity[38600.`3., "Kilojoules"/"Moles"], Quantity[43961.`5., "Kilojoules"/"Moles"]}
+{{35, 0.7578`4.}, {37, 0.2422`4.}}
+{Quantity[Pi/2, "Radians"], Quantity[Pi/2, "Radians"], Quantity[Pi/2, "Radians"]}
+{Quantity[622.35`5., "Picometers"], Quantity[445.61`5., "Picometers"], Quantity[817.85`5., "Picometers"]}
+Infinity
+Missing["NotAvailable"]
+EntityClass["Element", "Diamagnetic"]
+Quantity[-7.2`3.*^-9, "Meters"^3/"Kilograms"]
+Quantity[-101.5`4., "DegreesCelsius"]
+{EntityClass["Element", "Diamagnetic"], EntityClass["Element", "Gas"], EntityClass["Element", "Group17"], EntityClass["Element", "Halogen"], EntityClass["Element", "Insulator"], EntityClass["Element", "Natural"], EntityClass["Element", "Nonmetal"], EntityClass["Element", "PBlock"], EntityClass["Element", "Period3"], EntityClass["Element", "Stable"]}
+Quantity[0.00037`2., "Grams"/"Grams"]
+Missing["NotApplicable"]
+Quantity[-5.11`3.*^-10, "Meters"^3/"Moles"]
+Quantity[0.011029869321717486`3.6989700043360187, "Meters"^3/"Moles"]
+Missing["NotApplicable"]
+Quantity[35.3`3., "Barns"]
+Quantity[0.033`2., "Meters"^2/"Kilograms"]
+3
+EntityClass["Element", "Gas"]
+Missing["NotApplicable"]
+Row[{Superscript["", 2], Subscript["P", InputForm[3/2]]}]
+False
+1.000773`7.
+Quantity[100.`3., "Meters"*"Ohms"]
+Halogen
+Missing["NotApplicable"]
+Quantity[8.`2.*^-6, "Grams"/"Grams"]
+Quantity[206.`3., "Meters"/"Seconds"]
+Cmca
+64
+Quantity[478.2`4., "Joules"/("Kelvins"*"Kilograms")]
+{35, 37}
+Missing["NotAvailable"]
+Quantity[0.0089`2., "Watts"/("KelvinsDifference"*"Meters")]
+Missing["NotApplicable"]
+Quantity[1.`3.*^-6, "Grams"/"Grams"]
+{28, 29, 30, 31, 32, 33, 34, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51}
+5
+Quantity[175.`3., "Picometers"]
+Quantity[10.2`3., "Kilojoules"/"Moles"]
+Missing["NotApplicable"]
+-2.31`3.*^-8
+Missing["NotApplicable"]

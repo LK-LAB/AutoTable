@@ -1,0 +1,74 @@
+H
+hydrogen
+7/5
+Quantity[1.008`4., "AtomicMassUnit"]
+1
+Quantity[53.`2., "Picometers"]
+s
+Quantity[-252.87`5., "DegreesCelsius"]
+Missing["NotApplicable"]
+Missing["NotApplicable"]
+Quantity[31.`2., "Picometers"]
+Quantity[1.293`4., "Megapascals"]
+Quantity[32.97`4., "Kelvins"]
+Quantity[0.0015`2., "Grams"/"Grams"]
+Entity["Lattice", "SimpleHexagonal"]
+Missing["NotApplicable"]
+Missing["NotApplicable"]
+Quantity[0.0899`3., "Kilograms"/"Meters"^3]
+{Entity["Country", "UnitedKingdom"]}
+DateObject[{1766}, "Year", "Gregorian", 9.]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[72.8`3., "Kilojoules"/"Moles"]
+{{1}}
+Row[{1, Superscript["s", 1]}]
+2.2`3.
+{1}
+Quantity[0.558`3., "Kilojoules"/"Moles"]
+2
+1
+Infinity
+{Quantity[1312.`5., "Kilojoules"/"Moles"]}
+{{1, 0.999885`6.}, {2, 0.000115`3.}}
+{Quantity[Pi/2, "Radians"], Quantity[Pi/2, "Radians"], Quantity[(2*Pi)/3, "Radians"]}
+{Quantity[470.`3., "Picometers"], Quantity[470.`3., "Picometers"], Quantity[340.`3., "Picometers"]}
+Infinity
+Missing["NotAvailable"]
+EntityClass["Element", "Diamagnetic"]
+Quantity[-2.48`4.*^-8, "Meters"^3/"Kilograms"]
+Quantity[-259.14`5., "DegreesCelsius"]
+{EntityClass["Element", "Diamagnetic"], EntityClass["Element", "Gas"], EntityClass["Element", "Group1"], EntityClass["Element", "Natural"], EntityClass["Element", "Nonmetal"], EntityClass["Element", "Period1"], EntityClass["Element", "SBlock"], EntityClass["Element", "Stable"]}
+Quantity[0.024`2., "Grams"/"Grams"]
+Missing["NotApplicable"]
+Quantity[-4.999`4.*^-11, "Meters"^3/"Moles"]
+Quantity[0.0112124582869855395`2.958607314841775, "Meters"^3/"Moles"]
+Missing["NotApplicable"]
+Quantity[0.332`3., "Barns"]
+Quantity[0.011`2., "Meters"^2/"Kilograms"]
+1
+EntityClass["Element", "Gas"]
+Missing["NotApplicable"]
+Row[{Superscript["", 2], Subscript["S", InputForm[1/2]]}]
+False
+1.000132`7.
+Missing["NotApplicable"]
+Nonmetal
+Missing["NotApplicable"]
+Quantity[0.75`2., "Grams"/"Grams"]
+Quantity[1270.`4., "Meters"/"Seconds"]
+Row[{Subscript["P6", 3], "/", "mmc"}]
+194
+Quantity[14300.`5., "Joules"/("Kelvins"*"Kilograms")]
+{1, 2}
+Missing["NotAvailable"]
+Quantity[0.1805`4., "Watts"/("KelvinsDifference"*"Meters")]
+Missing["NotApplicable"]
+Quantity[0.75`2., "Grams"/"Grams"]
+{3, 4, 5, 6, 7}
+1
+Quantity[120.`3., "Picometers"]
+Quantity[0.452`3., "Kilojoules"/"Moles"]
+Missing["NotApplicable"]
+-2.23`4.*^-9
+Missing["NotApplicable"]

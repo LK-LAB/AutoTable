@@ -1,0 +1,74 @@
+Yb
+ytterbium
+Missing["NotApplicable"]
+Quantity[173.045`6., "AtomicMassUnit"]
+70
+Quantity[222.`3., "Picometers"]
+f
+Quantity[1196.`4., "DegreesCelsius"]
+Quantity[343.`3., "Megapascals"]
+Quantity[31.`2., "Gigapascals"]
+Quantity[187.`3., "Picometers"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[2.8`2.*^-6, "Grams"/"Grams"]
+Entity["Lattice", "FaceCenteredCubic"]
+Missing["NotApplicable"]
+Missing["NotApplicable"]
+Quantity[6570.`4., "Kilograms"/"Meters"^3]
+{Entity["Country", "Switzerland"]}
+DateObject[{1878}, "Year", "Gregorian", 9.]
+Quantity[3.6`2.*^6, "Siemens"/"Meters"]
+EntityClass["Element", "Conductor"]
+Quantity[50.`2., "Kilojoules"/"Moles"]
+{{2}, {2, 6}, {2, 6, 10}, {2, 6, 10, 14}, {2, 6}, {2}}
+Row[{"[Xe]", 6, Superscript["s", 2], 4, Superscript["f", 14]}]
+Missing["NotAvailable"]
+{2, 8, 18, 32, 8, 2}
+Quantity[7.7`2., "Kilojoules"/"Moles"]
+Missing["NotApplicable"]
+Missing["NotApplicable"]
+Infinity
+{Quantity[603.4`4., "Kilojoules"/"Moles"], Quantity[1174.8`5., "Kilojoules"/"Moles"], Quantity[2417.`4., "Kilojoules"/"Moles"], Quantity[4203.`4., "Kilojoules"/"Moles"]}
+{{168, 0.0013`2.}, {170, 0.0304`3.}, {171, 0.1428`4.}, {172, 0.2183`4.}, {173, 0.1613`4.}, {174, 0.3183`4.}, {176, 0.1276`4.}}
+{Quantity[Pi/2, "Radians"], Quantity[Pi/2, "Radians"], Quantity[Pi/2, "Radians"]}
+{Quantity[548.47`5., "Picometers"], Quantity[548.47`5., "Picometers"], Quantity[548.47`5., "Picometers"]}
+Infinity
+Quantity[6210.`4., "Kilograms"/"Meters"^3]
+EntityClass["Element", "Paramagnetic"]
+Quantity[5.9`3.*^-9, "Meters"^3/"Kilograms"]
+Quantity[819.`3., "DegreesCelsius"]
+{EntityClass["Element", "Conductor"], EntityClass["Element", "FBlock"], EntityClass["Element", "Lanthanide"], EntityClass["Element", "Metal"], EntityClass["Element", "Natural"], EntityClass["Element", "Paramagnetic"], EntityClass["Element", "Period6"], EntityClass["Element", "RareEarthMetal"], EntityClass["Element", "Solid"], EntityClass["Element", "Stable"]}
+Quantity[1.8`2.*^-7, "Grams"/"Grams"]
+Missing["NotAvailable"]
+Quantity[1.02`3.*^-9, "Meters"^3/"Moles"]
+Quantity[0.0000263386605783866`3.9956786262173574, "Meters"^3/"Moles"]
+Missing["NotApplicable"]
+Quantity[35.`2., "Barns"]
+Quantity[0.0076`2., "Meters"^2/"Kilograms"]
+6
+EntityClass["Element", "Solid"]
+0.21`2.
+Row[{Superscript["", 1], Subscript["S", InputForm[0]]}]
+False
+Missing["NotAvailable"]
+Quantity[2.8`2.*^-7, "Meters"*"Ohms"]
+Lanthanide
+Quantity[10.`2., "Gigapascals"]
+Quantity[1.`2.*^-9, "Grams"/"Grams"]
+Quantity[1590.`4., "Meters"/"Seconds"]
+Row[{"Fm", OverBar[3], "m"}]
+225
+Quantity[154.`3., "Joules"/("Kelvins"*"Kilograms")]
+{168, 170, 171, 172, 173, 174, 176}
+Missing["NotAvailable"]
+Quantity[39.`2., "Watts"/("KelvinsDifference"*"Meters")]
+Quantity[0.0000263`3., "Kelvins"^(-1)]
+Quantity[2.`2.*^-9, "Grams"/"Grams"]
+{148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 169, 175, 177, 178, 179, 180, 181, 182}
+3
+Missing["NotAvailable"]
+Quantity[160.`3., "Kilojoules"/"Moles"]
+Quantity[206.`3., "Megapascals"]
+0.0000388`3.
+Quantity[24.`2., "Gigapascals"]

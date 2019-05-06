@@ -1,0 +1,74 @@
+Rn
+radon
+5/3
+Quantity[222., "AtomicMassUnit"]
+86
+Quantity[120.`3., "Picometers"]
+p
+Quantity[-61.7`3., "DegreesCelsius"]
+Missing["NotApplicable"]
+Missing["NotApplicable"]
+Quantity[150.`3., "Picometers"]
+Quantity[6.28`3., "Megapascals"]
+Quantity[377.`3., "Kelvins"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotApplicable"]
+AlphaEmission
+Quantity[9.73`3., "Kilograms"/"Meters"^3]
+{Entity["Country", "Germany"]}
+DateObject[{1900}, "Year", "Gregorian", 9.]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[0., "Kilojoules"/"Moles"]
+{{2}, {2, 6}, {2, 6, 10}, {2, 6, 10, 14}, {2, 6, 10}, {2, 6}}
+Row[{"[Xe]", 6, Superscript["s", 2], 4, Superscript["f", 14], 5, Superscript["d", 10], 6, Superscript["p", 6]}]
+Missing["NotApplicable"]
+{2, 8, 18, 32, 18, 8}
+Quantity[3.`1., "Kilojoules"/"Moles"]
+1
+18
+Quantity[330350.`6., "Seconds"]
+{Quantity[1037.`4., "Kilojoules"/"Moles"]}
+{}
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[476590.`6., "Seconds"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[-71.`2., "DegreesCelsius"]
+{EntityClass["Element", "Gas"], EntityClass["Element", "Group18"], EntityClass["Element", "Natural"], EntityClass["Element", "NobleGas"], EntityClass["Element", "Nonmetal"], EntityClass["Element", "PBlock"], EntityClass["Element", "Period6"], EntityClass["Element", "Radioactive"]}
+Missing["NotAvailable"]
+Missing["NotApplicable"]
+Missing["NotAvailable"]
+Quantity[0.022816032887975336, "Meters"^3/"Moles"]
+Missing["NotApplicable"]
+Quantity[0.7`1., "Barns"]
+Missing["NotAvailable"]
+6
+EntityClass["Element", "Gas"]
+Missing["NotAvailable"]
+Row[{Superscript["", 1], Subscript["S", InputForm[0]]}]
+True
+Missing["NotAvailable"]
+Missing["NotApplicable"]
+NobleGas
+Missing["NotApplicable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[93.65`4., "Joules"/("Kelvins"*"Kilograms")]
+{}
+Missing["NotAvailable"]
+Quantity[0.00361`3., "Watts"/("KelvinsDifference"*"Meters")]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+{195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228}
+6
+Missing["NotAvailable"]
+Quantity[17.`2., "Kilojoules"/"Moles"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]

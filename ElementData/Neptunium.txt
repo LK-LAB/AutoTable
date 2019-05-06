@@ -1,0 +1,74 @@
+Np
+neptunium
+Missing["NotApplicable"]
+Quantity[237., "AtomicMassUnit"]
+93
+Missing["NotAvailable"]
+f
+Quantity[4000.`2., "DegreesCelsius"]
+Missing["Unknown"]
+Missing["Unknown"]
+Quantity[190.`3., "Picometers"]
+Missing["Unknown"]
+Missing["Unknown"]
+Quantity[0., "Grams"/"Grams"]
+Entity["Lattice", "SimpleOrthorhombic"]
+Missing["NotApplicable"]
+AlphaEmission
+Quantity[20450.`5., "Kilograms"/"Meters"^3]
+{Entity["Country", "UnitedStates"]}
+DateObject[{1940}, "Year", "Gregorian", 9.]
+Quantity[830000.`2., "Siemens"/"Meters"]
+EntityClass["Element", "Conductor"]
+Missing["Unknown"]
+{{2}, {2, 6}, {2, 6, 10}, {2, 6, 10, 14}, {2, 6, 10, 4}, {2, 6, 1}, {2}}
+Row[{"[Rn]", 7, Superscript["s", 2], 5, Superscript["f", 4], 6, Superscript["d", 1]}]
+1.36`3.
+{2, 8, 18, 32, 22, 9, 2}
+Quantity[10.`2., "Kilojoules"/"Moles"]
+Missing["NotApplicable"]
+Missing["NotApplicable"]
+Quantity[6.766`4.*^13, "Seconds"]
+{Quantity[604.5`4., "Kilojoules"/"Moles"]}
+{}
+{Quantity[Pi/2, "Radians"], Quantity[Pi/2, "Radians"], Quantity[Pi/2, "Radians"]}
+{Quantity[666.3`4., "Picometers"], Quantity[472.3`4., "Picometers"], Quantity[488.7`4., "Picometers"]}
+Quantity[9.761`4.*^13, "Seconds"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["NotAvailable"]
+Quantity[644.`3., "DegreesCelsius"]
+{EntityClass["Element", "Actinide"], EntityClass["Element", "Conductor"], EntityClass["Element", "FBlock"], EntityClass["Element", "Metal"], EntityClass["Element", "Period7"], EntityClass["Element", "Radioactive"], EntityClass["Element", "Solid"], EntityClass["Element", "Synthetic"]}
+Quantity[0., "Grams"/"Grams"]
+Missing["Unknown"]
+Missing["NotAvailable"]
+Quantity[0.00001158924205378973, "Meters"^3/"Moles"]
+Missing["NotApplicable"]
+Quantity[180.`3., "Barns"]
+Missing["NotAvailable"]
+7
+EntityClass["Element", "Solid"]
+Missing["Unknown"]
+Row[{Superscript["", 6], Subscript["L", InputForm[11/2]]}]
+True
+Missing["Unknown"]
+Quantity[1.2`2.*^-6, "Meters"*"Ohms"]
+Actinide
+Missing["Unknown"]
+Quantity[0., "Grams"/"Grams"]
+Missing["Unknown"]
+Pnma
+62
+Missing["NotAvailable"]
+{}
+Missing["Unknown"]
+Quantity[6.`1., "Watts"/("KelvinsDifference"*"Meters")]
+Missing["Unknown"]
+Missing["NotAvailable"]
+{225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244}
+6
+Missing["Unknown"]
+Quantity[335.`3., "Kilojoules"/"Moles"]
+Missing["Unknown"]
+Missing["NotAvailable"]
+Missing["Unknown"]

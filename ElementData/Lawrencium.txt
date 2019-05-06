@@ -1,0 +1,74 @@
+Lr
+lawrencium
+Missing["NotApplicable"]
+Quantity[262., "AtomicMassUnit"]
+103
+Missing["NotAvailable"]
+d
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[0., "Grams"/"Grams"]
+Missing["NotAvailable"]
+Missing["NotApplicable"]
+AlphaEmission
+Missing["NotAvailable"]
+{Entity["Country", "UnitedStates"]}
+DateObject[{1961}, "Year", "Gregorian", 9.]
+Missing["NotAvailable"]
+Missing["Unknown"]
+Missing["NotAvailable"]
+{{2}, {2, 6}, {2, 6, 10}, {2, 6, 10, 14}, {2, 6, 10, 14}, {2, 6}, {2, 1}}
+Row[{"[Rn]", 7, Superscript["s", 2], 5, Superscript["f", 14], 7, Superscript["p", 1]}]
+Missing["NotAvailable"]
+{2, 8, 18, 32, 32, 8, 3}
+Missing["NotAvailable"]
+Missing["NotApplicable"]
+3
+Quantity[36000.`2., "Seconds"]
+{}
+{}
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[52000.`2., "Seconds"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["Unknown"]
+Quantity[1627.`4., "DegreesCelsius"]
+{EntityClass["Element", "DBlock"], EntityClass["Element", "Actinide"], EntityClass["Element", "Group3"], EntityClass["Element", "Metal"], EntityClass["Element", "Period7"], EntityClass["Element", "Radioactive"], EntityClass["Element", "Synthetic"], EntityClass["Element", "TransitionMetal"]}
+Quantity[0., "Grams"/"Grams"]
+Missing["NotAvailable"]
+Missing["Unknown"]
+Missing["NotAvailable"]
+Missing["NotApplicable"]
+Missing["Unknown"]
+Missing["Unknown"]
+7
+Missing["Unknown"]
+Missing["NotAvailable"]
+Row[{Superscript["", 2], Subscript["P", InputForm[1/2]]}]
+True
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+TransitionMetal
+Missing["NotAvailable"]
+Quantity[0., "Grams"/"Grams"]
+Missing["NotAvailable"]
+Missing["Unknown"]
+Missing["NotAvailable"]
+Missing["Unknown"]
+{}
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+{251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266}
+3
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["Unknown"]
+Missing["NotAvailable"]

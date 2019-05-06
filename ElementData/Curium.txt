@@ -1,0 +1,74 @@
+Cm
+curium
+Missing["NotApplicable"]
+Quantity[247., "AtomicMassUnit"]
+96
+Missing["NotAvailable"]
+f
+Quantity[3110.`4., "DegreesCelsius"]
+Missing["Unknown"]
+Missing["Unknown"]
+Quantity[169.`3., "Picometers"]
+Missing["Unknown"]
+Missing["Unknown"]
+Quantity[0., "Grams"/"Grams"]
+Entity["Lattice", "SimpleHexagonal"]
+Missing["NotApplicable"]
+AlphaEmission
+Quantity[13510.`5., "Kilograms"/"Meters"^3]
+{Entity["Country", "UnitedStates"]}
+DateObject[{1944}, "Year", "Gregorian", 9.]
+Missing["Unknown"]
+Missing["NotAvailable"]
+Missing["Unknown"]
+{{2}, {2, 6}, {2, 6, 10}, {2, 6, 10, 14}, {2, 6, 10, 7}, {2, 6, 1}, {2}}
+Row[{"[Rn]", 7, Superscript["s", 2], 5, Superscript["f", 7], 6, Superscript["d", 1]}]
+1.3`2.
+{2, 8, 18, 32, 25, 9, 2}
+Missing["Unknown"]
+Missing["NotApplicable"]
+Missing["NotApplicable"]
+Quantity[4.92`3.*^14, "Seconds"]
+{Quantity[581.`3., "Kilojoules"/"Moles"]}
+{}
+{Quantity[Pi/2, "Radians"], Quantity[Pi/2, "Radians"], Quantity[(2*Pi)/3, "Radians"]}
+{Quantity[349.6`4., "Picometers"], Quantity[349.6`4., "Picometers"], Quantity[1133.1`5., "Picometers"]}
+Quantity[7.1`2.*^14, "Seconds"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["NotAvailable"]
+Quantity[1345.`4., "DegreesCelsius"]
+{EntityClass["Element", "Actinide"], EntityClass["Element", "FBlock"], EntityClass["Element", "Metal"], EntityClass["Element", "Period7"], EntityClass["Element", "Radioactive"], EntityClass["Element", "Solid"], EntityClass["Element", "Synthetic"]}
+Quantity[0., "Grams"/"Grams"]
+Missing["Unknown"]
+Missing["NotAvailable"]
+Quantity[0.000018282753515914136, "Meters"^3/"Moles"]
+Missing["NotApplicable"]
+Quantity[60.`2., "Barns"]
+Missing["NotAvailable"]
+7
+EntityClass["Element", "Solid"]
+Missing["Unknown"]
+Row[{Superscript["", 9], Subscript["D", InputForm[2]]}]
+True
+Missing["Unknown"]
+Missing["Unknown"]
+Actinide
+Missing["Unknown"]
+Quantity[0., "Grams"/"Grams"]
+Missing["Unknown"]
+Row[{Subscript["P6", 3], "/", "mmc"}]
+194
+Missing["NotAvailable"]
+{}
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["NotAvailable"]
+{233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252}
+4
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["NotAvailable"]
+Missing["Unknown"]

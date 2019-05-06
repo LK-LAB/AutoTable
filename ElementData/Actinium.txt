@@ -1,0 +1,74 @@
+Ac
+actinium
+Missing["NotApplicable"]
+Quantity[227., "AtomicMassUnit"]
+89
+Missing["NotAvailable"]
+f
+Quantity[3200.`4., "DegreesCelsius"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[215.`3., "Picometers"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Entity["Lattice", "FaceCenteredCubic"]
+Missing["NotApplicable"]
+BetaDecay
+Quantity[10070.`5., "Kilograms"/"Meters"^3]
+{Entity["Country", "France"]}
+DateObject[{1899}, "Year", "Gregorian", 9.]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+{{2}, {2, 6}, {2, 6, 10}, {2, 6, 10, 14}, {2, 6, 10}, {2, 6, 1}, {2}}
+Row[{"[Rn]", 7, Superscript["s", 2], 6, Superscript["d", 1]}]
+1.1`2.
+{2, 8, 18, 32, 18, 9, 2}
+Quantity[14.`2., "Kilojoules"/"Moles"]
+Missing["NotApplicable"]
+Missing["NotApplicable"]
+Quantity[6.8706`5.*^8, "Seconds"]
+{Quantity[499.`3., "Kilojoules"/"Moles"], Quantity[1170.`4., "Kilojoules"/"Moles"]}
+{}
+{Quantity[Pi/2, "Radians"], Quantity[Pi/2, "Radians"], Quantity[Pi/2, "Radians"]}
+{Quantity[567.`3., "Picometers"], Quantity[567.`3., "Picometers"], Quantity[567.`3., "Picometers"]}
+Quantity[9.9121`5.*^8, "Seconds"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[1050.`4., "DegreesCelsius"]
+{EntityClass["Element", "Actinide"], EntityClass["Element", "FBlock"], EntityClass["Element", "Metal"], EntityClass["Element", "Natural"], EntityClass["Element", "Period7"], EntityClass["Element", "Radioactive"], EntityClass["Element", "Solid"]}
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[0.000022542204568023828, "Meters"^3/"Moles"]
+Missing["NotApplicable"]
+Quantity[880.`2., "Barns"]
+Quantity[0.078`2., "Meters"^2/"Kilograms"]
+7
+EntityClass["Element", "Solid"]
+Missing["NotAvailable"]
+Row[{Superscript["", 2], Subscript["D", InputForm[3/2]]}]
+True
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Actinide
+Missing["NotAvailable"]
+Quantity[0., "Grams"/"Grams"]
+Missing["NotAvailable"]
+Row[{"Fm", OverBar[3], "m"}]
+225
+Quantity[120.`3., "Joules"/("Kelvins"*"Kilograms")]
+{}
+Missing["NotAvailable"]
+Quantity[12.`2., "Watts"/("KelvinsDifference"*"Meters")]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+{206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236}
+3
+Missing["NotAvailable"]
+Quantity[400.`2., "Kilojoules"/"Moles"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]

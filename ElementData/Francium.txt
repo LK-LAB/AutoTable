@@ -1,0 +1,74 @@
+Fr
+francium
+Missing["NotApplicable"]
+Quantity[223., "AtomicMassUnit"]
+87
+Missing["NotAvailable"]
+s
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[260.`3., "Picometers"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotApplicable"]
+BetaDecay
+Missing["NotAvailable"]
+{Entity["Country", "France"]}
+DateObject[{1939}, "Year", "Gregorian", 9.]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+{{2}, {2, 6}, {2, 6, 10}, {2, 6, 10, 14}, {2, 6, 10}, {2, 6}, {1}}
+Row[{"[Rn]", 7, Superscript["s", 1]}]
+0.7`1.
+{2, 8, 18, 32, 18, 8, 1}
+Quantity[2.`1., "Kilojoules"/"Moles"]
+Missing["NotApplicable"]
+1
+Quantity[1300.`2., "Seconds"]
+{Quantity[380.`3., "Kilojoules"/"Moles"]}
+{}
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Quantity[1900.`2., "Seconds"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+{EntityClass["Element", "AlkaliMetal"], EntityClass["Element", "Group1"], EntityClass["Element", "Metal"], EntityClass["Element", "Natural"], EntityClass["Element", "Period7"], EntityClass["Element", "Radioactive"], EntityClass["Element", "SBlock"], EntityClass["Element", "Solid"]}
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotApplicable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+7
+EntityClass["Element", "Solid"]
+Missing["NotAvailable"]
+Row[{Superscript["", 2], Subscript["S", InputForm[1/2]]}]
+True
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+AlkaliMetal
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+{}
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+{199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232}
+1
+Missing["NotAvailable"]
+Quantity[64.`2., "Kilojoules"/"Moles"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]
+Missing["NotAvailable"]

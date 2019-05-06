@@ -1,0 +1,74 @@
+Nh
+nihonium
+Missing["NotApplicable"]
+Quantity[286., "AtomicMassUnit"]
+113
+Missing["NotAvailable"]
+p
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+Quantity[0., "Grams"/"Grams"]
+Missing["Unknown"]
+Missing["NotApplicable"]
+AlphaEmission
+Missing["NotAvailable"]
+{Entity["Country", "Russia"], Entity["Country", "UnitedStates"]}
+DateObject[{2004}, "Year", "Gregorian", 9.]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+{{2}, {2, 6}, {2, 6, 10}, {2, 6, 10, 14}, {2, 6, 10, 14}, {2, 6, 10}, {2, 1}}
+Row[{"[Rn]", 7, Superscript["s", 2], 5, Superscript["f", 14], 6, Superscript["d", 10], 7, Superscript["p", 1]}]
+Missing["Unknown"]
+{2, 8, 18, 32, 32, 18, 3}
+Missing["Unknown"]
+Missing["NotApplicable"]
+13
+Quantity[1200.`2., "Seconds"]
+{}
+{}
+Missing["Unknown"]
+Missing["Unknown"]
+Quantity[1700.`2., "Seconds"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+{EntityClass["Element", "VeryUnstable"], EntityClass["Element", "Group13"], EntityClass["Element", "Metal"], EntityClass["Element", "PBlock"], EntityClass["Element", "Period7"], EntityClass["Element", "PoorMetal"], EntityClass["Element", "Radioactive"], EntityClass["Element", "Synthetic"], EntityClass["Element", "SuperHeavy"]}
+Quantity[0., "Grams"/"Grams"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["NotAvailable"]
+Missing["NotApplicable"]
+Missing["Unknown"]
+Missing["Unknown"]
+7
+Missing["Unknown"]
+Missing["Unknown"]
+Row[{Superscript["", 2], Subscript["P", InputForm[1/2]]}]
+True
+Missing["Unknown"]
+Missing["Unknown"]
+PoorMetal
+Missing["Unknown"]
+Quantity[0., "Grams"/"Grams"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+{}
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["NotAvailable"]
+{283, 284, 285, 286, 287}
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
+Missing["Unknown"]
